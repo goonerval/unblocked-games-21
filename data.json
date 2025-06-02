@@ -1,0 +1,159 @@
+{
+    "games": [
+        {
+            "title": "Slope",
+            "image": "gamesimages/slope.png",
+            "link": "games/slope.html"
+        },
+        {
+            "title": "Slope 2",
+            "image": "gamesimages/slope2.png",
+            "link": "games/slope2.html"
+        },
+        {
+            "title": "Ovo",
+            "image": "gamesimages/ovo.png",
+            "link": "games/ovo.html"
+        },
+        {
+            "title": "Subway Surfers",
+            "image": "gamesimages/subwaysurfers.png",
+            "link": "games/subwaysurfers.html"
+        },
+        {
+            "title": "Snow Rider 3D",
+            "image": "gamesimages/snowrider3d.png",
+            "link": "games/snowrider3d.html"
+        },
+        {
+            "title": "Run 3",
+            "image": "gamesimages/run3.png",
+            "link": "games/run3.html"
+        },
+        {
+            "title": "Tiny Fishing",
+            "image": "gamesimages/tinyfishing.png",
+            "link": "games/tinyfishing.html"
+        },
+        {
+            "title": "Johny Upgrade",
+            "image": "gamesimages/johnyupgrade.png",
+            "link": "games/johnyupgrade.html"
+        },
+        {
+            "title": "Drift Boss",
+            "image": "gamesimages/driftboss.png",
+            "link": "games/driftboss.html"
+        },
+        {
+            "title": "MotoX3M",
+            "image": "gamesimages/motox3m.png",
+            "link": "games/motox3m.html"
+        },
+        {
+            "title": "2 Player Battle",
+            "image": "gamesimages/2playerbattle.png",
+            "link": "games/2playerbattle.html"
+        },
+        {
+            "title": "Death Run 3D",
+            "image": "gamesimages/deathrun3d.png",
+            "link": "games/deathrun3d.html"
+        },
+        {
+            "title": "Temple Run",
+            "image": "gamesimages/templerun.png",
+            "link": "games/templerun.html"
+        },
+        {
+            "title": "Duck Life",
+            "image": "gamesimages/ducklife.png",
+            "link": "games/ducklife.html"
+        },
+        {
+            "title": "Duck Life 2",
+            "image": "gamesimages/ducklife2.png",
+            "link": "games/ducklife2.html"
+        },
+        {
+            "title": "World's Hardest Game",
+            "image": "gamesimages/worldshardestgame.png",
+            "link": "games/worldshardestgame.html"
+        },
+        {
+            "title": "Path of Light",
+            "image": "gamesimages/pathoflight.png",
+            "link": "games/pathoflight.html"
+        },
+        {
+            "title": "Shortcut Race",
+            "image": "gamesimages/shortcutrace.png",
+            "link": "games/shortcutrace.html"
+        },
+        {
+            "title": "Unlimited Wordle",
+            "image": "gamesimages/unlimitedwordle.png",
+            "link": "games/unlimitedwordle.html"
+        },
+        {
+            "title": "Google Doodle Island",
+            "image": "gamesimages/doodleisland.png",
+            "link": "games/doodleisland.html"
+        },
+        {
+            "title": "Big Tower Tiny Square",
+            "image": "gamesimages/bigtowertinysquare.png",
+            "link": "games/bigtowertinysquare.html"
+        },
+        {
+            "title": "Fruit Ninja",
+            "image": "gamesimages/fruitninja.png",
+            "link": "games/fruitninja.html"
+        },
+        {
+            "title": "Minecraft",
+            "image": "gamesimages/minecraft.png",
+            "link": "games/minecraft.html"
+        },
+        {
+            "title": "Super Mario 64",
+            "image": "gamesimages/supermario64.png",
+            "link": "https://probablykam.github.io/Mario64webgl/"
+        },
+        {
+            "title": "Cluster Rush",
+            "image": "gamesimages/clusterrush.png",
+            "link": "games/clusterrush.html"
+        },
+        {
+            "title": "Duck Life 3",
+            "image": "gamesimages/ducklife3.png",
+            "link": "games/ducklife3.html"
+        },
+        {
+            "title": "Getaway Shootout",
+            "image": "gamesimages/getawayshootout.png",
+            "link": "games/getawayshootout.html"
+        },
+        {
+            "title": "Basketball Stars",
+            "image": "gamesimages/basketballstars.png",
+            "link": "games/basketballstars.html"
+        },
+        {
+            "title": "Globle Unlimited",
+            "image": "gamesimages/globleunlimited.png",
+            "link": "games/globleunlimited.html"
+        },
+        {
+            "title": "1V1.LOL",
+            "image": "gamesimages/1v1.lol.png",
+            "link": "games/1v1.lol.html"
+        },
+        {
+            "title": "xx142b2.exe",
+            "image": "gamesimages/xx142b2.exe.png",
+            "link": "games/xx142b2.exe.html"
+        }
+    ]
+}
