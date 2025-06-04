@@ -178,6 +178,24 @@
             "title": "PolyTrack",
             "image": "gamesimages/polytrack.png",
             "link": "games/polytrack.html"
+        },
+
+        {
+            "title": "Cookie Clicker",
+            "image": "gamesimages/cookieclicker.png",
+            "link": "games/cookieclicker.html"
+        },
+
+        {
+            "title": "We Come What we Behold",
+            "image": "gamesimages/class-145.png",
+            "link": "games/class-145.html"
+        },
+
+        {
+            "title": "BitLife",
+            "image": "gamesimages/bitlife.png",
+            "link": "games/bitlife.html"
         }
     ]
 }
