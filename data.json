@@ -160,6 +160,18 @@
             "title": "Geometry Dash",
             "image": "gamesimages/geometrydash.png",
             "link": "games/geometrydash.html"
+        },
+
+        {
+            "title": "Obby Robby",
+            "image": "gamesimages/obbyrobby.png",
+            "link": "games/obbyrobby.html"
+        },
+
+        {
+            "title": "Infinite Craft",
+            "image": "gamesimages/infinitecraft.png",
+            "link": "games/infinitecraft.html"
         }
     ]
 }
