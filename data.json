@@ -172,6 +172,12 @@
             "title": "Infinite Craft",
             "image": "gamesimages/infinitecraft.png",
             "link": "games/infinitecraft.html"
+        },
+
+        {
+            "title": "PolyTrack",
+            "image": "gamesimages/polytrack.png",
+            "link": "games/polytrack.html"
         }
     ]
 }
