@@ -208,6 +208,24 @@
             "title": "Fireboy and Watergirl",
             "image": "gamesimages/fireboyandwatergirl.png",
             "link": "games/fireboyandwatergirl.html"
+        },
+
+        {
+            "title": "Pacman",
+            "image": "gamesimages/pacman.png",
+            "link": "games/pacman.html"
+        },
+
+        {
+            "title": "Boxing Random",
+            "image": "gamesimages/boxingrandom.png",
+            "link": "games/boxingrandom.html"
+        },
+
+        {
+            "title": "Super Mario Bros",
+            "image": "gamesimages/supermariobros.png",
+            "link": "games/supermariobros.html"
         }
     ]
 }
