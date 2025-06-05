@@ -238,6 +238,12 @@
             "title": "Super Star Car",
             "image": "gamesimages/superstarcar.png",
             "link": "games/superstarcar.html"
+        },
+
+        {
+            "title": "Moto Maniac 2",
+            "image": "gamesimages/motomaniac.png",
+            "link": "games/motomaniac2.html"
         }
     ]
 }
