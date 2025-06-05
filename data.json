@@ -196,6 +196,18 @@
             "title": "BitLife",
             "image": "gamesimages/bitlife.png",
             "link": "games/bitlife.html"
+        },
+
+        {
+            "title": "Jumping Shell",
+            "image": "gamesimages/jumpingshell.png",
+            "link": "games/jumpingshell.html"
+        },
+
+        {
+            "title": "Fireboy and Watergirl",
+            "image": "gamesimages/fireboyandwatergirl.png",
+            "link": "games/fireboyandwatergirl.html"
         }
     ]
 }
