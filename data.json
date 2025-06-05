@@ -226,6 +226,12 @@
             "title": "Super Mario Bros",
             "image": "gamesimages/supermariobros.png",
             "link": "games/supermariobros.html"
+        },
+
+        {
+            "title": "Stick Defenders",
+            "image": "gamesimages/stickdefenders.png",
+            "link": "games/stickdefenders.html"
         }
     ]
 }
