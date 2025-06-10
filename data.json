@@ -262,6 +262,18 @@
             "title": "Stick Merge",
             "image": "gamesimages/stickmerge.png",
             "link": "games/stickmerge.html"
+        },
+
+        {
+            "title": "Murder",
+            "image": "gamesimages/murder.png",
+            "link": "games/murder.html"
+        },
+
+        {
+            "title": "Moving Truck Bounty",
+            "image": "gamesimages/movingtruckbounty.png",
+            "link": "games/movingtruckbounty.html"
         }
     ]
 }
