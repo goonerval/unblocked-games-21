@@ -274,6 +274,18 @@
             "title": "Moving Truck Bounty",
             "image": "gamesimages/movingtruckbounty.png",
             "link": "games/movingtruckbounty.html"
+        },
+
+        {
+            "title": "Cyber Cars Punk Racing",
+            "image": "gamesimages/cybercarspunkracing.png",
+            "link": "games/cybercarspunkracing.html"
+        },
+
+        {
+            "title": "Survival Karts",
+            "image": "gamesimages/survivalkarts.png",
+            "link": "games/survivalkarts.html"
         }
     ]
 }
