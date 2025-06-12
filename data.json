@@ -1,5 +1,11 @@
 {
     "games": [
+                {
+            "title": "Minecraft Java",
+            "image": "gamesimages/minecraft.png",
+            "link": "games/minecraft.html"
+        },
+
         {
             "title": "Slope",
             "image": "gamesimages/slope.png",
@@ -110,11 +116,7 @@
             "image": "gamesimages/fruitninja.png",
             "link": "games/fruitninja.html"
         },
-        {
-            "title": "Minecraft",
-            "image": "gamesimages/minecraft.png",
-            "link": "games/minecraft.html"
-        },
+
         {
             "title": "Super Mario 64",
             "image": "gamesimages/supermario64.png",
