@@ -54,7 +54,8 @@
         {
             "title": "MotoX3M",
             "image": "gamesimages/motox3m.png",
-            "link": "games/motox3m.html"
+            "link": "games/motox3m.html",
+            "category": "driving"
         },
         {
             "title": "2 Player Battle",
@@ -179,7 +180,8 @@
         {
             "title": "PolyTrack",
             "image": "gamesimages/polytrack.png",
-            "link": "games/polytrack.html"
+            "link": "games/polytrack.html",
+            "category": "driving"
         },
 
         {
@@ -239,13 +241,15 @@
         {
             "title": "Super Star Car",
             "image": "gamesimages/superstarcar.png",
-            "link": "games/superstarcar.html"
+            "link": "games/superstarcar.html",
+            "category": "driving"
         },
 
         {
             "title": "Moto Maniac 2",
             "image": "gamesimages/motomaniac.png",
-            "link": "games/motomaniac2.html"
+            "link": "games/motomaniac2.html",
+            "category": "driving"
         },
 
         {
@@ -275,19 +279,22 @@
         {
             "title": "Moving Truck Bounty",
             "image": "gamesimages/movingtruckbounty.png",
-            "link": "games/movingtruckbounty.html"
+            "link": "games/movingtruckbounty.html",
+            "category": "driving"
         },
 
         {
             "title": "Cyber Cars Punk Racing",
             "image": "gamesimages/cybercarspunkracing.png",
-            "link": "games/cybercarspunkracing.html"
+            "link": "games/cybercarspunkracing.html",
+            "category": "driving"
         },
 
         {
             "title": "Survival Karts",
             "image": "gamesimages/survivalkarts.png",
-            "link": "games/survivalkarts.html"
+            "link": "games/survivalkarts.html",
+            "category": "driving"
         },
 
         {

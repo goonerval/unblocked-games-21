@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(fonts/Montserrat-VariableFont_wght.ttf);
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -42,3 +47,22 @@ h1 {
     text-decoration: none;
     color: #333;
 }
+
+#drivinglink {
+    position: absolute;
+    font-family: Montserrat;
+    color: #333;
+    top: 10px;
+    right: 1px;
+}
+
+#searchInput {
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
