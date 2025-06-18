@@ -332,6 +332,18 @@
         },
 
         {
+            "title": "Papa's Burgeria",
+            "image": "gamesimages/papasburgeria.png",
+            "link": "games/papasburgeria.html"
+        },
+
+        {
+            "title": "Papa's Cupcakeria",
+            "image": "gamesimages/papascupcakeria.png",
+            "link": "games/papascupcakeria.html"
+        },
+
+        {
             "title": "There is no Game",
             "image": "gamesimages/thereisnogame.png",
             "link": "games/thereisnogame.html"
@@ -390,6 +402,12 @@
             "image": "gamesimages/monstertrack.png",
             "link": "games/monstertrack.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Fruit Merge",
+            "image": "gamesimages/fruitmerge.png",
+            "link": "games/fruitmerge.html"
         }
     ]
 }
