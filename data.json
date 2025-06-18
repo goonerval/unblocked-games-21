@@ -29,7 +29,8 @@
         {
             "title": "Snow Rider 3D",
             "image": "gamesimages/snowrider3d.png",
-            "link": "games/snowrider3d.html"
+            "link": "games/snowrider3d.html",
+            "category": "driving"
         },
         {
             "title": "Run 3",
@@ -49,18 +50,21 @@
         {
             "title": "Drift Boss",
             "image": "gamesimages/driftboss.png",
-            "link": "games/driftboss.html"
+            "link": "games/driftboss.html",
+            "category": "driving"
         },
         {
             "title": "MotoX3M",
             "image": "gamesimages/motox3m.png",
-            "link": "games/motox3m.html"
+            "link": "games/motox3m.html",
+            "category": "driving"
         },
 
         {
             "title": "Moto X3M Pool Party",
             "image": "gamesimages/motox3mpp.png",
-            "link": "games/motox3mpp.html"
+            "link": "games/motox3mpp.html",
+            "category": "driving"
         },
 
         {
@@ -186,7 +190,8 @@
         {
             "title": "PolyTrack",
             "image": "gamesimages/polytrack.png",
-            "link": "games/polytrack.html"
+            "link": "games/polytrack.html",
+            "category": "driving"
         },
 
         {
@@ -246,13 +251,15 @@
         {
             "title": "Super Star Car",
             "image": "gamesimages/superstarcar.png",
-            "link": "games/superstarcar.html"
+            "link": "games/superstarcar.html",
+            "category": "driving"
         },
 
         {
             "title": "Moto Maniac 2",
             "image": "gamesimages/motomaniac.png",
-            "link": "games/motomaniac2.html"
+            "link": "games/motomaniac2.html",
+            "category": "driving"
         },
 
         {
@@ -282,19 +289,22 @@
         {
             "title": "Moving Truck Bounty",
             "image": "gamesimages/movingtruckbounty.png",
-            "link": "games/movingtruckbounty.html"
+            "link": "games/movingtruckbounty.html",
+            "category": "driving"
         },
 
         {
             "title": "Cyber Cars Punk Racing",
             "image": "gamesimages/cybercarspunkracing.png",
-            "link": "games/cybercarspunkracing.html"
+            "link": "games/cybercarspunkracing.html",
+            "category": "driving"
         },
 
         {
             "title": "Survival Karts",
             "image": "gamesimages/survivalkarts.png",
-            "link": "games/survivalkarts.html"
+            "link": "games/survivalkarts.html",
+            "category": "driving"
         },
 
         {
@@ -373,6 +383,13 @@
             "title": "Paper.IO",
             "image": "gamesimages/paperio.png",
             "link": "games/paperio.html"
+        },
+
+        {
+            "title": "Monster Track",
+            "image": "gamesimages/monstertrack.png",
+            "link": "games/monstertrack.html",
+            "category": "driving"
         }
     ]
 }
