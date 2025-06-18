@@ -66,3 +66,27 @@ h1 {
   border-radius: 8px;
 }
 
+
+#retrolink {
+    position: absolute;
+    font-family: Montserrat;
+    color: #333;
+    top: 10px;
+    right: 100px;
+}
+
+#skilllink {
+    position: absolute;
+    font-family: Montserrat;
+    color: #333;
+    top: 10px;
+    left: 1px;
+}
+
+#calmlink {
+    position: absolute;
+    font-family: Montserrat;
+    color: #333;
+    top: 10px;
+    left: 100px;
+}
