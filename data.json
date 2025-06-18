@@ -455,6 +455,34 @@
             "image": "gamesimages/fruitmerge.png",
             "link": "games/fruitmerge.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Spiral Roll",
+            "image": "gamesimages/spiralroll.png",
+            "link": "games/spiralroll.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Slow Roads",
+            "image": "gamesimages/slowroads.png",
+            "link": "games/slowroads.html",
+            "category": "driving"
+        },
+
+        {
+            "title": "Rally Point 5",
+            "image": "gamesimages/rallypoint5.png",
+            "link": "games/rallypoint5.html",
+            "category": "driving"
+        },
+
+        {
+            "title": "Skibidi Shooting",
+            "image": "gamesimages/skibidishooting.png",
+            "link": "games/skibidishooting.html",
+            "category": "shooting"
         }
     ]
 }
