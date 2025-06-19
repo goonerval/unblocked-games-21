@@ -483,6 +483,13 @@
             "image": "gamesimages/skibidishooting.png",
             "link": "games/skibidishooting.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Friday Night Funkin'",
+            "image": "gamesimages/fridaynightfunkin.png",
+            "link": "games/fridaynightfunkin.html",
+            "category": "skill"
         }
     ]
 }
