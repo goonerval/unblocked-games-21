@@ -122,12 +122,14 @@
         {
             "title": "Unlimited Wordle",
             "image": "gamesimages/unlimitedwordle.png",
-            "link": "games/unlimitedwordle.html"
+            "link": "games/unlimitedwordle.html",
+            "category": "calm"
         },
         {
             "title": "Google Doodle Island",
             "image": "gamesimages/doodleisland.png",
-            "link": "games/doodleisland.html"
+            "link": "games/doodleisland.html",
+            "category": "calm"
         },
         {
             "title": "Big Tower Tiny Square",
@@ -162,7 +164,7 @@
             "title": "Getaway Shootout",
             "image": "gamesimages/getawayshootout.png",
             "link": "games/getawayshootout.html",
-            "category": "skill"
+            "category": "shooting"
         },
         {
             "title": "Basketball Stars",
@@ -486,10 +488,17 @@
         },
 
         {
-            "title": "Friday Night Funkin'",
-            "image": "gamesimages/fridaynightfunkin.png",
-            "link": "games/fridaynightfunkin.html",
-            "category": "skill"
+            "title": "Drift Hunters",
+            "image": "gamesimages/drifthunters.png",
+            "link": "games/drifthunters.html",
+            "category": "driving"
+        },
+
+        {
+            "title": "Rooftop Snipers 2",
+            "image": "gamesimages/rooftopsnipers2.png",
+            "link": "games/rooftopsnipers2.html",
+            "category": "shooting"
         }
     ]
 }
