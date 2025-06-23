@@ -521,6 +521,41 @@
             "image": "gamesimages/bloonstd.png",
             "link": "games/bloonstd.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Breaking The Bank",
+            "image": "gamesimages/breakingthebank.png",
+            "link": "games/breakingthebank.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Escaping The Prison",
+            "image": "gamesimages/escapingtheprison.png",
+            "link": "games/escapingtheprison.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Fleeing The Complex",
+            "image": "gamesimages/fleeingthecomplex.png",
+            "link": "games/fleeingthecomplex.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Infiltrating The Airship",
+            "image": "gamesimages/infiltratingtheairship.png",
+            "link": "games/infiltratingtheairship.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Stealing The Diamond",
+            "image": "gamesimages/stealingthediamond.png",
+            "link": "games/stealingthediamond.html",
+            "category": "calm"
         }
     ]
 }
