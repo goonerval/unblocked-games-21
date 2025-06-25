@@ -563,6 +563,13 @@
             "image": "gamesimages/bloxorz.png",
             "link": "games/bloxorz.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Hole.IO",
+            "image": "gamesimages/holeio.png",
+            "link": "games/holeio.html",
+            "category": "calm"
         }
     ]
 }
