@@ -594,6 +594,13 @@
         },
 
         {
+            "title": "Sandboxels",
+            "image": "gamesimages/sandboxels.png",
+            "link": "games/sandboxels.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Tap Tap Shots",
             "image": "gamesimages/taptapshots.png",
             "link": "games/taptapshots.html",
@@ -612,6 +619,13 @@
             "image": "gamesimages/portalflash.png",
             "link": "games/portal.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Sugar Sugar",
+            "image": "gamesimages/sugarsugar.png",
+            "link": "games/sugarsugar.html",
+            "category": "calm"
         }
     ]
 }
