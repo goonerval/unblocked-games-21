@@ -594,13 +594,6 @@
         },
 
         {
-            "title": "Sandboxels",
-            "image": "gamesimages/sandboxels.png",
-            "link": "games/sandboxels.html",
-            "category": "calm"
-        },
-
-        {
             "title": "Tap Tap Shots",
             "image": "gamesimages/taptapshots.png",
             "link": "games/taptapshots.html",
