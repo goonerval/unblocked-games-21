@@ -653,6 +653,13 @@
             "image": "gamesimages/curveball3d.png",
             "link": "games/curveball3d.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Getting Over It",
+            "image": "gamesimages/gettingoverit.png",
+            "link": "games/gettingoverit.html",
+            "category": "skill"
         }
     ]
 }
