@@ -682,6 +682,13 @@
             "image": "gamesimages/crossyroad.png",
             "link": "games/crossyroad.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Traffic Run",
+            "image": "gamesimages/trafficrun.png",
+            "link": "games/trafficrun.html",
+            "category": "calm"
         }
     ]
 }
