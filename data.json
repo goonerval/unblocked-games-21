@@ -741,6 +741,13 @@
         },
 
         {
+            "title":  "Fnaf 4",
+            "image": "gamesimages/fnaf4.png",
+            "link": "games/fnaf4.html",
+            "category": "skill"
+        },
+
+        {
             "title": "Thisissand",
             "image": "gamesimages/thisissand.png",
             "link": "games/thisissand.html",
