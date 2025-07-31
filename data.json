@@ -773,6 +773,13 @@
             "image": "gamesimages/racecityonline.png",
             "link": "games/raceonline.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Granny",
+            "image": "gamesimages/granny.png",
+            "link": "games/granny.html",
+            "category": "skill"
         }
     ]
 }
