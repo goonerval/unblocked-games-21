@@ -83,6 +83,13 @@
         },
 
         {
+            "title": "Moto X3M Winter",
+            "image": "gamesimages/motox3mwinter.png",
+            "link": "games/motox3mwinter.html",
+            "category": "driving"
+        },
+
+        {
             "title": "2 Player Battle",
             "image": "gamesimages/2playerbattle.png",
             "link": "games/2playerbattle.html",
