@@ -801,6 +801,13 @@
             "image": "gamesimages/rocketsoccer.png",
             "link": "games/rocketsoccer.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Flappy Bird",
+            "image": "gamesimages/flappybird.png",
+            "link": "games/flappybird.html",
+            "category": "skill"
         }
     ]
 }
