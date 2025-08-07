@@ -815,6 +815,13 @@
             "image": "gamesimages/puppetmaster.png",
             "link": "games/puppetmaster.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Growmi",
+            "image": "gamesimages/growmi.png",
+            "link": "games/growmi.html",
+            "category": "calm"
         }
     ]
 }
