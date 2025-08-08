@@ -822,6 +822,13 @@
             "image": "gamesimages/growmi.png",
             "link": "games/growmi.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Red Ball 4",
+            "image": "gamesimages/redball4.png",
+            "link": "games/redball4.html",
+            "category": "skill"
         }
     ]
 }
