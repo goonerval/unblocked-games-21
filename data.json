@@ -836,6 +836,13 @@
             "image": "gamesimages/redball4.png",
             "link": "games/redball4.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Stickman Destruction",
+            "image": "gamesimages/stickmandestruction.png",
+            "link": "games/stickmandestruction.html",
+            "category": "calm"
         }
     ]
 }
