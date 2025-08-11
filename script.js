@@ -12,15 +12,12 @@ fetch('data.json')
 
 function renderGames(games) {
   const gameContainer = document.getElementById('gameContainer');
+  const gameCounter = document.getElementById('gamesnumber');
+
   gameContainer.innerHTML = '';
+  gameCounter.textContent = `Games: ${games.length}`;
 
   games.forEach(game => {
-    gamesnumber += 1
-
-    const gamesnumberlabel = document.getElementById("gamesnumber")
-
-    gamesnumberlabel.innerHTML = "Games: " + gamesnumber
-
     const gameElement = document.createElement('div');
     gameElement.classList.add('game');
     gameElement.innerHTML = `
@@ -30,6 +27,7 @@ function renderGames(games) {
     gameContainer.appendChild(gameElement);
   });
 }
+
 
 document.addEventListener('DOMContentLoaded', () => {
   const searchInput = document.getElementById('searchInput');
