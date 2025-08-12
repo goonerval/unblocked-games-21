@@ -865,6 +865,13 @@
             "image": "gamesimages/basketrandom.png",
             "link": "games/basketrandom.html",
             "category": "skill"
+        },
+
+        {
+            "title": "G-Switch",
+            "image": "gamesimages/gswitch.png",
+            "link": "games/gswitch.html",
+            "category": "skill"
         }
     ]
 }
