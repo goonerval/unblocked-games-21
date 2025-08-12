@@ -872,6 +872,13 @@
             "image": "gamesimages/gswitch.png",
             "link": "games/gswitch.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Snakes And Ladders",
+            "image": "gamesimages/snakesandladders.png",
+            "link": "games/snakesandladders.html",
+            "category": "calm"
         }
     ]
 }
