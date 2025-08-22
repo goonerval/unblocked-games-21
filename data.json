@@ -938,6 +938,13 @@
             "image": "gamesimages/toydefence.png",
             "link": "games/toydefence.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Snake",
+            "image": "gamesimages/snake.png",
+            "link": "games/snake.html",
+            "category": "retro"
         }
     ]
 }
