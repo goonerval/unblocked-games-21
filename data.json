@@ -945,6 +945,13 @@
             "image": "gamesimages/snake.png",
             "link": "games/snake.html",
             "category": "retro"
+        },
+
+        {
+            "title": "Super Meat Boy",
+            "image": "gamesimages/supermeatboy.png",
+            "link": "games/supermeatboy.html",
+            "category": "skill"
         }
     ]
 }
