@@ -980,6 +980,13 @@
             "image": "gamesimages/madalinstuntcars.png",
             "link": "games/madalinstuntcars.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Use Boxmen",
+            "image": "gamesimages/useboxmen.png",
+            "link": "games/useboxmen.html",
+            "category": "calm"
         }
     ]
 }
