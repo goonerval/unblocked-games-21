@@ -966,6 +966,13 @@
             "image": "gamesimages/stickmanparkour.png",
             "link": "games/stickmanparkour.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Stickman Gta City",
+            "image": "gamesimages/stickmangtacity.png",
+            "link": "games/stickmangtacity.html",
+            "category": "driving"
         }
     ]
 }
