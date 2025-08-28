@@ -1001,6 +1001,13 @@
             "image": "gamesimages/stackball.png",
             "link": "games/stackball.html",
             "category": "calm"
+        },
+
+        {
+            "title": "QWOP",
+            "image": "gamesimages/qwop.png",
+            "link": "games/qwop.html",
+            "category": "skill"
         }
     ]
 }
