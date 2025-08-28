@@ -569,6 +569,13 @@
         },
 
         {
+            "title": "Bloons TD 2",
+            "image": "gamesimages/bloonstd2.png",
+            "link": "games/bloonstd2.html",
+            "category": "skill"
+        },
+
+        {
             "title": "Breaking The Bank",
             "image": "gamesimages/breakingthebank.png",
             "link": "games/breakingthebank.html",
