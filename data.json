@@ -249,7 +249,7 @@
         {
             "title": "Cookie Clicker",
             "image": "gamesimages/cookieclicker.png",
-            "link": "games/cookieclicker/index.html",
+            "link": "games/cookieclicker.html",
             "category": "calm"
         },
 
@@ -1035,6 +1035,13 @@
             "image": "gamesimages/drivemad.png",
             "link": "games/drivemad.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Particles",
+            "image": "gamesimages/particles.png",
+            "link": "games/particles.html",
+            "category": "calm"
         }
     ]
 }
