@@ -1021,6 +1021,13 @@
             "image": "gamesimages/escapecar.png",
             "link": "games/escapecar.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Archery Random",
+            "image": "gamesimages/archeryrandom.png",
+            "link": "games/archeryrandom.html",
+            "category": "shooting"
         }
     ]
 }
