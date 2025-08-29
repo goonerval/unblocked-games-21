@@ -131,6 +131,12 @@
             "link": "games/ducklife3.html"
         },
 
+        {
+            "title": "Duck Life 4",
+            "image": "gamesimages/ducklife4.png",
+            "link": "games/ducklife4.html"
+        },
+
 
         {
             "title": "World's Hardest Game",
