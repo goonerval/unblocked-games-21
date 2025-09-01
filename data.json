@@ -1038,6 +1038,13 @@
         },
 
         {
+            "title": "Particles",
+            "image": "gamesimages/particles.png",
+            "link": "games/particles.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Papa Louie: When Pizzas Attack!",
             "image": "gamesimages/papalouie1.png",
             "link": "games/papalouie.html",
