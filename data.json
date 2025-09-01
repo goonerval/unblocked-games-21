@@ -1049,6 +1049,13 @@
             "image": "gamesimages/papalouie1.png",
             "link": "games/papalouie.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Alien Homnid",
+            "image": "gamesimages/alienhomnid.png",
+            "link": "games/alienhomnid.html",
+            "category": "shooting"
         }
     ]
 }
