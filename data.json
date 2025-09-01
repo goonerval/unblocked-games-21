@@ -1056,6 +1056,13 @@
             "image": "gamesimages/alienhomnid.png",
             "link": "games/alienhomnid.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Obby 99% Will Lose",
+            "image": "gamesimages/obby99lose.png",
+            "link": "games/obby99lose.html",
+            "category": "calm"
         }
     ]
 }
