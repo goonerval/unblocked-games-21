@@ -1091,6 +1091,13 @@
             "image": "gamesimages/learntofly.png",
             "link": "games/learntofly.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Age Of War",
+            "image": "gamesimages/ageofwar.png",
+            "link": "games/ageofwar.html",
+            "category": "skill"
         }
     ]
 }
