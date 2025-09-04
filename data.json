@@ -249,7 +249,7 @@
         {
             "title": "Cookie Clicker",
             "image": "gamesimages/cookieclicker.png",
-            "link": "games/cookieclicker.html",
+            "link": "games/cookieclicker/index.html",
             "category": "calm"
         },
 
@@ -1076,6 +1076,13 @@
             "title": "A Small World Cup",
             "image": "gamesimages/asmallworldcup.png",
             "link": "games/asmallworldcup.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Blumgi Ball",
+            "image": "gamesimages/blumgiball.png",
+            "link": "games/blumgiball.html",
             "category": "skill"
         }
     ]
