@@ -1084,6 +1084,13 @@
             "image": "gamesimages/blumgiball.png",
             "link": "games/blumgiball.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Learn To Fly",
+            "image": "gamesimages/learntofly.png",
+            "link": "games/learntofly.html",
+            "category": "calm"
         }
     ]
 }
