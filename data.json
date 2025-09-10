@@ -1112,6 +1112,13 @@
             "image": "gamesimages/tag.png",
             "link": "games/tag.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Madness: Projct Nexus",
+            "image": "gamesimages/madness.png",
+            "link": "games/madness.html",
+            "category": "shooting"
         }
     ]
 }
