@@ -1149,6 +1149,13 @@
             "image": "gamesimages/raftwars.png",
             "link": "games/raftwars.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Bad Piggies",
+            "image": "gamesimages/badpiggies.png",
+            "link": "games/badpiggies.html",
+            "category": "driving"
         }
     ]
 }
