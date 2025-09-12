@@ -1103,6 +1103,13 @@
         },
 
         {
+            "title": "Learn To Fly 2",
+            "image": "gamesimages/learntofly2.png",
+            "link": "games/learntofly2.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Age Of War",
             "image": "gamesimages/ageofwar.png",
             "link": "games/ageofwar.html",
