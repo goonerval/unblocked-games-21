@@ -8,6 +8,13 @@
         },
 
         {
+            "title": "Steal A Brainrot",
+            "image": "gamesimages/stealabrainrot.png",
+            "link": "games/stealabrainrot.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Minecraft Java",
             "image": "gamesimages/minecraft.png",
             "link": "games/minecraft.html",
