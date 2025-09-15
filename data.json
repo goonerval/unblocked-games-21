@@ -1,6 +1,13 @@
 {
     "games": [
                 {
+            "title": "Grow A Garden Unblocked",
+            "image": "gamesimages/growagarden.png",
+            "link": "games/growagarden.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Minecraft Java",
             "image": "gamesimages/minecraft.png",
             "link": "games/minecraft.html",
