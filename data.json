@@ -1163,6 +1163,13 @@
             "image": "gamesimages/badpiggies.png",
             "link": "games/badpiggies.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Bubble Shooter",
+            "image": "gamesimages/bubbleshooter.png",
+            "link": "games/bubbleshooter.html",
+            "category": "calm"
         }
     ]
 }
