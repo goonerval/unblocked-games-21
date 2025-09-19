@@ -659,25 +659,19 @@
         },
 
         {
-            "title": "Fleeing The Complex",
-            "image": "gamesimages/fleeingthecomplex.png",
-            "link": "games/fleeingthecomplex.html",
-            "category": "calm"
-        },
-
-        {
             "title": "Infiltrating The Airship",
             "image": "gamesimages/infiltratingtheairship.png",
             "link": "games/infiltratingtheairship.html",
             "category": "calm"
         },
 
-        {
-            "title": "Stealing The Diamond",
-            "image": "gamesimages/stealingthediamond.png",
-            "link": "games/stealingthediamond.html",
+                {
+            "title": "Fleeing The Complex",
+            "image": "gamesimages/fleeingthecomplex.png",
+            "link": "games/fleeingthecomplex.html",
             "category": "calm"
         },
+
 
         {
             "title": "Bloxorz",
