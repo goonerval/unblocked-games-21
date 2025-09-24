@@ -1248,6 +1248,13 @@
             "image": "gamesimages/flashchess.png",
             "link": "games/flashchess.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Tic Tac Toe",
+            "image": "gamesimages/tictactoe.png",
+            "link": "games/tictactoe.html",
+            "category": "calm"
         }
     ]
 }
