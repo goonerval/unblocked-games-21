@@ -1283,6 +1283,13 @@
             "image": "gamesimages/fliprunner.png",
             "link": "games/fliprunner.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Retro Bowl",
+            "image": "gamesimages/retrobowl.png",
+            "link": "games/retrobowl.html",
+            "category": "skill"
         }
     ]
 }
