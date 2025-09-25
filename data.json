@@ -1290,6 +1290,13 @@
             "image": "gamesimages/retrobowl.png",
             "link": "games/retrobowl.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Stack",
+            "image": "gamesimages/stack.png",
+            "link": "games/stack.html",
+            "category": "calm"
         }
     ]
 }
