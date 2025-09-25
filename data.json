@@ -1255,6 +1255,13 @@
             "image": "gamesimages/tictactoe.png",
             "link": "games/tictactoe.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Vex 5",
+            "image": "gamesimages/vex5.png",
+            "link": "games/vex5.html",
+            "category": "skill"
         }
     ]
 }
