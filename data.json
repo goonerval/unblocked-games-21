@@ -1297,6 +1297,13 @@
             "image": "gamesimages/stack.png",
             "link": "games/stack.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Hextris",
+            "image": "gamesimages/hextris.png",
+            "link": "games/hextris.html",
+            "category": "calm"
         }
     ]
 }
