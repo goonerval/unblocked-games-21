@@ -1311,6 +1311,13 @@
             "image": "gamesimages/hextris.png",
             "link": "games/hextris.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Into Space 2",
+            "image": "gamesimages/intospace2.png",
+            "link": "games/intospace2.html",
+            "category": "calm"
         }
     ]
 }
