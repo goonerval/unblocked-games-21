@@ -1332,6 +1332,13 @@
             "image": "gamesimages/snowwario.png",
             "link": "games/snowwario.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Slither IO",
+            "image": "gamesimages/slitherio.png",
+            "link": "games/slitherio.html",
+            "category": "calm"
         }
     ]
 }
