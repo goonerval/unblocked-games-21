@@ -1345,7 +1345,14 @@
             "title": "Ragdoll Archers",
             "image": "gamesimages/ragdollarchers.png",
             "link": "games/ragdollarchers.html",
-            "category": "skill"
+            "category": "shooting"
+        },
+
+        {
+            "title": "Shoot Stickman",
+            "image": "gamesimages/shootstickman.png",
+            "link": "games/shootstickman.html",
+            "category": "shooting"
         }
     ]
 }
