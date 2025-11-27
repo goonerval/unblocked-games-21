@@ -1389,6 +1389,13 @@
             "image": "gamesimages/superhot.png",
             "link": "games/superhot.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Kart Bros",
+            "image": "gamesimages/kartbros.png",
+            "link": "games/kartbros.html",
+            "category": "driving"
         }
     ]
 }
