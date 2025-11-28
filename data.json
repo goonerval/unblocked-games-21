@@ -257,14 +257,7 @@
             "image": "gamesimages/xx142b2.exe.png",
             "link": "games/xx142b2.exe.html"
         },
-
-        {
-            "title": "Geometry Dash",
-            "image": "gamesimages/geometrydash.png",
-            "link": "games/geometrydash.html",
-            "category": "skill"
-        },
-
+        
         {
             "title": "Obby Robby",
             "image": "gamesimages/obbyrobby.png",
@@ -1403,6 +1396,13 @@
             "image": "gamesimages/madgunz.png",
             "link": "games/madgunz.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Geometry Wave",
+            "image": "gamesimages/geometrywave.png",
+            "link": "games/geometrywave.html",
+            "category": "skill"
         }
     ]
 }
