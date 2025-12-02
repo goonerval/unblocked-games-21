@@ -1403,6 +1403,12 @@
             "image": "gamesimages/geometrywave.png",
             "link": "games/geometrywave.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Totally Accurate Battle Simulator",
+            "image": "gamesimages/tabs.png",
+            "link": "games/tabs.html"
         }
     ]
 }
