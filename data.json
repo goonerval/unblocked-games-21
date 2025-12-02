@@ -1408,7 +1408,15 @@
         {
             "title": "Totally Accurate Battle Simulator",
             "image": "gamesimages/tabs.png",
-            "link": "games/tabs.html"
+            "link": "games/tabs.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Cubefield",
+            "image": "gamesimages/cubefield.png",
+            "link": "games/cubefield.html",
+            "category": "skill"
         }
     ]
 }
