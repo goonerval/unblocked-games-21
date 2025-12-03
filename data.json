@@ -1417,6 +1417,13 @@
             "image": "gamesimages/cubefield.png",
             "link": "games/cubefield.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Burnin Rubber 5",
+            "image": "gamesimages/burninrubber5.png",
+            "link": "games/burninrubber5.html",
+            "category": "driving"
         }
     ]
 }
