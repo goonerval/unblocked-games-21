@@ -15,13 +15,6 @@
         },
 
         {
-            "title": "Minecraft Java",
-            "image": "gamesimages/minecraft.png",
-            "link": "games/minecraft.html",
-            "category": "skill"
-        },
-
-        {
             "title": "Slope",
             "image": "gamesimages/slope.png",
             "link": "games/slope.html",
@@ -1427,4 +1420,5 @@
         }
     ]
 }
+
 
